@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="axoden-logo.png" alt="Zenodo DOI QR Code" width="150"/>
+  <img src="axoden-logo.jpg" alt="Zenodo DOI QR Code" width="150"/>
 </p>
 
 <p align="center">
